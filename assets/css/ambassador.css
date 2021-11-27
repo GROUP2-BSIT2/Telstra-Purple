@@ -779,7 +779,7 @@ section {
 
 }
 .services .icon-box img {
-  position: absolute;
+  /* position: absolute; */
   float: left;
   height: 50px;
 }
