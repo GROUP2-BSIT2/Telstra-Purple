@@ -634,12 +634,9 @@ section {
 }
 
 @media (max-width: 992px) {
-  .breadcrumbs {
+  /* .breadcrumbs {
     margin-top: 58px;
-  }
-  .breadcrumbs .d-flex {
-    display: block !important;
-  }
+  } */
   .breadcrumbs h2 {
     margin-bottom: 10px;
   }
