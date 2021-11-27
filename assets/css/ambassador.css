@@ -770,6 +770,9 @@ section {
   padding: 30px;
   border-radius: 10px;
   background: #F2CC8F;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
 }
 .services .icon-box:hover {
   /* background-color: rgb(216 167 177 / .5); */
@@ -780,7 +783,9 @@ section {
 }
 .services .icon-box img {
   /* position: absolute; */
-  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 50px;
 }
 .services .row .icon-box .more {
@@ -809,6 +814,7 @@ section {
   display: none;
 } */
 .services .icon-box h4 {
+  padding-left: 50px;
   font-weight: 700;
   font-size: 18px;
   display: flex;
