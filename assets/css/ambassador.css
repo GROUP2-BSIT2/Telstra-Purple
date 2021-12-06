@@ -763,6 +763,8 @@ section {
 --------------------------------------------------------------*/
 .services {
   background: url(../img/wave2.svg) no-repeat;
+  background-size: cover;
+
   /* background-size: 100%; */
 }
 .services .icon-box {
